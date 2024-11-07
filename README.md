@@ -1,4 +1,4 @@
-# Awesome-SEO-Book-Course-Search-Engine-Optimization
+# Awesome SEO Book & Course: Search Engine Optimization
 
 # Comprehensive Table of Contents for a Book & Course on Search Engine Optimization (SEO)
 
